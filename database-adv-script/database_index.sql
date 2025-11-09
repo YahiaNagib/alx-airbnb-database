@@ -1,0 +1,2 @@
+CREATE CLUSTERED INDEX IX_Users_UserID
+ON Users(user_id);
